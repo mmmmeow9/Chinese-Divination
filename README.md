@@ -3,7 +3,11 @@ a traditional Chinese method of fortune-telling
 
 ![image](https://github.com/user-attachments/assets/9c1992d3-f5b7-4f2f-811e-2f5e86a2dc6c)
 
-## 起卦方式
+## Theory
+Before run the code, set up your OpenAI API key: 
+
+openai.api_key = "your_openai_key"
+## Theory
  
 1.1 当前时辰起卦
 提取当时的月、 日、时信息，按照一定的推算规则，用左拇指在六个掌诀位上按顺时针方向依次掐算即知结果。其法以大安起正月，月上起日， 日上起时下面详解推算方法。
